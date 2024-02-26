@@ -1,0 +1,25 @@
+.part{
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    padding: 50px 40px;
+    cursor: pointer;
+}
+.part p {
+    margin-bottom: 15px; 
+  }
+.part1 p{
+    text-decoration: underline;
+}
+.part2 p{
+    text-decoration: underline;
+}
+.part3 p{
+    text-decoration: underline;
+}
+.part4 p{
+    text-decoration: underline;
+}
+  
+     

@@ -1,0 +1,36 @@
+nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    height: 10vh;
+    position: fixed;
+    padding: 10px 120px;
+    z-index: 999999;
+    width: 100%;
+    background-color: transparent;
+}
+nav.menu{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img {
+    width: 150px;
+    padding-top: 25px;
+    
+  }
+  
+.signup-button {
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none; 
+  }
+.signup-button:hover {
+    background-color: darkred; 
+  }
+  
